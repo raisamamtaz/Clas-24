@@ -1,0 +1,122 @@
+.two{
+    display: none;
+}
+.more{
+    position: absolute;
+}
+.clo{
+    
+}
+.rad{
+    display: none;
+}
+
+
+@media only screen and (min-width:320px) and (max-width:425px){
+body{
+width: 806px;
+}
+.first{
+    
+}
+.navv{
+    margin-left: 10p;
+}
+.navvv{
+    margin-left: 10p;
+}
+
+.imgone{
+    height: 426px !important;
+    width: 806px !important;
+}
+.imgtwo{
+    height: 426px !important;
+    width: 806px !important;
+}
+.more{
+    margin-left:-10px;
+}
+.star{
+    margin-left: 347px !important;
+}
+.lis{
+    display: none;
+}
+.pro{
+    margin-left: 150px !important;
+}
+.last{
+    display: inline-flex !important;
+}
+.last_two h2{
+    margin-left: 24px !important;
+}
+.last_three h2{
+    margin-left: 24px !important;
+}
+.last_four h2{
+    margin-left: 24px !important;
+}
+.last_one button{
+    margin-top: -10px !important;
+    margin-left: 10px !important;
+}
+.last_two button{
+    margin-top: -10px !important;
+    margin-left: 10px !important;
+}
+.last_three button{
+    margin-top: -10px !important;
+    margin-left: 10px !important;
+}
+.last_four button{
+    margin-top: -10px !important;
+    margin-left: 10px !important;
+}
+.fb{
+    margin-left: 10px !important;
+    margin-bottom: 10px;
+}
+.twit{
+    margin-top: 16px;
+    margin-left: 7px;
+}
+.tube{
+    margin-top: 16px;
+    margin-left: 7px;
+}
+.em{
+    margin-left: -20px !important;
+}
+.ps{
+    margin-left: -20px !important;
+}
+.loose{
+    margin-left: -35px !important;
+}
+.rad{
+    
+}
+.map{
+    margin-left: 53px;
+}
+.you{
+    margin-left: 53px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
